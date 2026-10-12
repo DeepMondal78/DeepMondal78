@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋  <br>Nice meeting you, I’m Deep!<br><br>💻 I’m a Front-End Developer & UI/UX Designer  <br>🎨 Ask me about modern UI, responsive design & frontend development  <br>🛠️ I work with HTML, CSS/SCSS, JavaScript, React, Next.js & Figma  <br>📫 How to reach me: GitHub / LinkedIn  <br>😄 Pronouns: He/Him  <br>⚡ Fun fact: If I’m not coding, I’m probably exploring new UI ideas or animations<br>
+Hi there 👋  <br>Nice meeting you, I’m Deep!<br><br>💻 I’m a Fullstack Developer & UI/UX Designer  <br>🎨 Ask me about modern UI, responsive design & frontend development  <br>🛠️ I work with HTML, CSS/SCSS, JavaScript, React, Next.js & Figma  <br>📫 How to reach me: GitHub / LinkedIn  <br>😄 Pronouns: He/Him  <br>⚡ Fun fact: If I’m not coding, I’m probably exploring new UI ideas or animations<br>
 
 
 ## 🌐 Socials:
